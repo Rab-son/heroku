@@ -1,0 +1,9 @@
+C:\Users\Junior\Desktop\UNDP\WireFrame\Presentation\GraphQL\Sunday\UNDP-USSD\ussd-app>nodemon
+
+
+Node:
+
+1. Fixing tables to look good
+2. Description of terms (good language, confirm when deleting)
+3. Comment (-list)
+4. 
